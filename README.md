@@ -141,9 +141,3 @@ This repository is licensed under the [MIT License](./LICENSE).
 - IDE: VSCode
 
 ---
-
-)
-
-- IDE: VSCode
-
----
